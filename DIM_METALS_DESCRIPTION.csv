@@ -1,0 +1,488 @@
+"TICKER_BLOOMBERG","DESCRIPTION","COUNTRY","METALS","TYPE","UNITS"
+CHMMCOPP Index,China semis copper production,China,Copper,Production,Thousand Tonnes
+CECNST04 SMMC Index,China Copper Cathode Shanghai Bonded Warehouse Inventory Weekly,China,Copper,Stocks,"10000 metric tonnes"
+CECNST19 SMMC Index,China Copper Cathode Guangdong Bonded Warehouse Inventory Weekly,China,Copper,Stocks,"10000 metric tonnes"
+CECNST05 SMMC Index,China Copper Cathode Social Inventory Shanghai Weekly,China,Copper,Stocks,"10000 metric tonnes"
+CECNST06 SMMC Index,China Copper Cathode Social Inventory Guangdong Weekly,China,Copper,Stocks,"10000 metric tonnes"
+IP YOY Index,US Industrial Production YoY%,US,Demand,Industrial Production,%
+ZNCNST04 SMMC Index,China Refined Zinc Inventories Total of Shanghai Guangdong Tianjin Weekly,China,Zinc,Stocks,"10000 metric tonnes"
+NLSCA Index,London Metal Exchange Warehouse Stocks Copper,Global,Copper,Stocks,metric tons
+COMXCOPR Index,Comex Copper Inventory Data,Global,Copper,Stocks,short ton
+NLSAH Index,LME CLS Aluminium,Global,Aluminium,Stocks,metric tons
+COMXALTL Index,Comex Aluminum Total Stocks in Warehouse,Global,Aluminium,Stocks,metric tonne
+NLSZS Index,LME CLS Zinc,Global,Zinc,Stocks,metric tons
+COMXZINT Index,Comex Zinc Inventory Total Depository,Global,Zinc,Stocks,metric tonne
+LMCADS03 Comdty,LME Copper 3M Fwd,Global,Copper,Price,USD/MT
+HG1 COMB Comdty,CMX Copper,Global,Copper,Price,USd/lb.
+LMAHDS03 Comdty,LME Aluminium 3M Fwd,Global,Aluminium ,Price,USD/MT
+LMZSDS03 Comdty,LME Zinc 3M Fwd,Global,Zinc,Price,USD/MT
+ZACNITHE AMTL Index,China Copper Concentrate TC 25% CIF,China,Copper,Spot Treatment Charges,USD/metric tonne
+CECNAITL SMET Index,China Copper Cathodes Premium Bill of Lading Shanghai CIF,China,Copper,Premium,USD/metric tonne
+CECN0002 SMMC Index,China Yangshan Copper Cathode Premium (Warehouse Warrant against LME Spot),China,Copper,Premium,USD/metric tonne
+CFFDTMMN Index,CFTC CMX Copper Managed Money Net Total/Disagg Futures Only,Global,Copper,Investor Positioning,Contracts
+CTCTAVAK Index,Copper LME COT Investment Funds Net Contracts Other,Global,Copper,Investor Positioning,Contracts
+AHCTAVAK Index,Aluminum LME COT Investment Funds Net Contracts Other,Global,Aluminium,Investor Positioning,Contracts
+ZSCTAVAK Index,Zinc LME COT Investment Funds Net Contracts Other,Global,Zinc,Investor Positioning,Contracts
+CLPCTOTL Index,Chile Copper Production Total,Chile,Copper,Mine Production,Metric Tonne
+PRMMCOPP Index,Peru Copper Production Monthly,Peru,Copper,Mine Production,metric tonne
+EUIPEMUY Index,Eurozone Industrial Production YoY%,Eurozone,Demand,Industrial Production,%
+GEINYY Index,Germany Industrial Production YoY%,Germany,Demand,Industrial Production,%
+CECNPR13 SMMC Index,SMM China Copper Cathode Rod Output,China,Copper,Refined Production,"10000 metric tonnes"
+CECNPR12 SMMC Index,SMM China Copper Tube And Pipe Output,China,Copper,Refined Production,"10000 metric tonnes"
+CECNPR11 SMMC Index,China Copper Plate/Sheet And Strip Output,China,Copper,Refined Production,"10000 metric tonnes"
+CECNPR05 SMMC Index,China Copper Cathode Output Monthly,China,Copper,Refined Production,metric tonne
+CECNRN04 SMMC Index,China Copper Smelting and Refinery Total Operating Rates,China,Copper,Utilization Rates,%
+CECNRN01 SMMC Index,China Copper Smelting and Refinery Large Plants Operating Rates,China,Copper,Utilization Rates,%
+CECNRN02 SMMC Index,China Copper Smelting and Refinery Medium Plants Operating Rates,China,Copper,Utilization Rates,%
+AICNIWSH SMMC Index,"CIF, Physical Premium Aluminium",Global,Aluminium ,Price,USD/MT
+CNLCIGRD Index,China Investment In Grid Infrastructure Cum,China,Demand,Power,Billions
+CNLCIPPT Index,China Investment In Power Plants Cum,China,Demand,Power,Billions
+CNLCCPSP Index,China Capacity of Solar Power Plants Cum,China,Demand,Power,Million kW
+CNLCCPWT Index,China Capacity Of Grid Connected Windpower Plants Cum,China,Demand,Power,Million kW
+CHVAIOY Index,China Industrial Production YoY%,China,Demand,Industrial Production,%
+RUIPRNYY Index,Russia Industrial Production YoY%,Russia,Demand,Industrial Production,%
+CUOIIQTL Index,China Customs Total Copper Ores Import Quantity,China,Copper,Trade,metric tonne
+CPWIIQTL Index,China Customs Copper Waste & Scrap Total Imports Quantity,China,Copper,Trade,metric tonne
+INPIINDY Index,India Industrial Production YoY%,India,Demand,Industrial Production,%
+CURIIQTL Index,China refined copper Imports,China,Copper,Trade,metric tonne
+CURIEQTL Index,China refined copper Exports,China,Copper,Trade,metric tonne
+AMJPCNF HARA Index,Japan Aluminum Ingot Premium Cost & Freight,Japan,Aluminium,Premium,USD/metric tonne
+JNIPYOY Index,Japan Industrial Production YoY%,Japan,Demand,Industrial Production,%
+CNEVCOPP Index,China semis copper Exports,China,Copper,Trade,Thousand Tonnes
+CNIVCOPP Index,China semis copper Imports,China,Copper,Trade,Thousand Tonnes
+LMPBDS03 Comdty,LME Lead 3M Fwd,Global,Lead,Price,USD/MT
+LMNIDS03 Comdty,LME Nickel 3M Fwd,Global,Nickel,Price,USD/MT
+LPE1 Comdty,Copper 1M 50D Vol,Global,Copper,Price,%
+LPP1 Comdty,Copper 1M 25DC Vol,Global,Copper,Price,%
+LPO1 Comdty,Copper 1M 10DC Vol,Global,Copper,Price,%
+LPC1 Comdty,Copper 1M 25DP Vol,Global,Copper,Price,%
+LPD1 Comdty,Copper 1M 10DP Vol,Global,Copper,Price,%
+LAE1 Comdty,Aluminium 1M 50D Vol,Global,Aluminium ,Price,%
+LAP1 Comdty,Aluminum 1M 25DC Vol,Global,Aluminium ,Price,%
+LAO1 Comdty,Aluminium 1M 10DC Vol,Global,Aluminium ,Price,%
+LAC1 Comdty,Aluminium 1M 25DP Vol,Global,Aluminium ,Price,%
+LAD1 Comdty,Aluminium 1M 10DP Vol,Global,Aluminium ,Price,%
+LXE1 Comdty,Zinc 1M 50D Vol,Global,Zinc,Price,%
+LXP1 Comdty,Zinc 1M 25DC Vol,Global,Zinc,Price,%
+LXO1 Comdty,Zinc 1M 10DC Vol,Global,Zinc,Price,%
+LXC1 Comdty,Zinc 1M 25DP Vol,Global,Zinc,Price,%
+LXD1 Comdty,Zinc 1M 10DP Vol,Global,Zinc,Price,%
+LNE1 Comdty,Nickel 1M 50D Vol,Global,Nickel,Price,%
+LNP1 Comdty,Nickel 1M 25DC Vol,Global,Nickel,Price,%
+LNO1 Comdty,Nickel 1M 10DC Vol,Global,Nickel,Price,%
+LNC1 Comdty,Nickel 1M 25DP Vol,Global,Nickel,Price,%
+LND1 Comdty,Nickel 1M 10DP Vol,Global,Nickel,Price,%
+PBCNRN07 SMMC Index,China Primary Lead Producers Operating Rates Monthly,China,Lead,Utilization Rates,%
+CHRMNWSA Index,Floor Space of Houses Newly Started - Monthly,China,Demand,Civil and building construction,Units
+CHRMSPAA Index,Floor Space of Buildings Under Construction - Monthly,China,Demand,Civil and building construction,Units
+CHRMCOMA Index,Floor Space of Buildings Completed - Monthly,China,Demand,Civil and building construction,Units
+CHMMAIRC Index,China Airconditioners Output - Monthly,China,Demand,Air conditioning and refrigeration,Units
+CHNMFREE Index,China Freezers Output - Monthly,China,Demand,Air conditioning and refrigeration,Units
+CHMMREFR Index,China Household Refrigerators Output - Monthly,China,Demand,Air conditioning and refrigeration,Units
+CHMMCOTV Index,China Colour Televisions Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMWAMM Index,China Household Washing Machines Output - Monthly,China,Demand,Consumer Durables,Units
+ZNCNRN04 SMMC Index,China Refined Zinc Producers Operating Rates Monthly,China,Zinc,Utilization Rates,%
+CECNRN08 SMMC Index,China Copper Wire and Cable Producers Total Operating Rates,China,Copper,Utilization Rates,%
+AICNRN03 SMMC Index,China Aluminum Wire & Cable Producers Operating Rates Monthly,China,Aluminium,Utilization Rates,%
+AICNRN01 SMMC Index,China Aluminum Ingot Operating Rates Monthly,China,Aluminium,Utilization Rates,%
+AICNRN02 SMMC Index,China Aluminum Alloy Producers Operating Rates Monthly,China,Aluminium,Utilization Rates,%
+CECNRN12 SMMC Index,China Copper Cathode Rod Producers Total Operating Rates,China,Copper,Utilization Rates,%
+CECNRN16 SMMC Index,China Copper Plate/Sheet and Strip Producers Total Operating Rates,China,Copper,Utilization Rates,%
+NICNRN01 SMMC Index,China Refined Nickel Producers Operating Rates Monthly,China,Nickel,Utilization Rates,%
+Z1CNRN04 SMMC Index,China Zinc Concentrate Producers Operating Rates Monthly,China,Zinc,Utilization Rates,%
+ZNCNRN09 SMMC Index,China Zinc Galvanizers Operating Rates Monthly,China,Zinc,Utilization Rates,%
+CECNRN20 SMMC Index,China Copper Tube Producers Total Operating Rates,China,Copper,Utilization Rates,%
+AICNPR10 SMMC Index,China Aluminum Production Monthly,China,Aluminium,Production,"10000 metric tonnes"
+PBCNPR05 SMMC Index,China Primary Lead Production Monthly,China,Lead,Refined Production,"10000 metric tonnes"
+ZNCNPR01 SMMC Index,China Refined Zinc Production Monthly,China,Zinc,Refined Production,"10000 metric tonnes"
+AACNPR SMMC Index,China Alumina Production Monthly,China,Aluminium,Production,"10000 metric tonnes"
+Z1CNPR01 SMMC Index,China Zinc Concentrate Production Monthly,China,Zinc,Production,"10000 metric tonnes"
+AACNPC05 SMMC Index,China Alumina Import VAT,China,Aluminium,Duty,%
+PBCNST03 SMMC Index,China Lead Inventory Total Weekly,China,Lead,Stocks,"10000 metric tonnes"
+N2IDMHPP SMMC Index,Indonesia Output of Nickel MHP Monthly,Indonesia,Nickel,Production,"10000 metric tonnes"
+CHNMCMPT Index,China Electronic Computers Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMMICO Index,China Micro Computers Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMMCEQ Index,China Mobile Communications Equipment Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMMOBL Index,China Mobiles Output - Monthly,China,Demand,Consumer Durables,Units
+CHXNIC Index,China Integrated Circuit Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMELTL Index,China Portable Electric Devices Output - Monthly,China,Demand,Consumer Durables,Units
+CHXNACMO Index,China AC Motors Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMEIM Index,China Electric Instruments & Meter Output - Monthly,China,Demand,Consumer Durables,Units
+CHMMENGN Index,China Engines Output - Monthly,China,Demand,Machinery,Units
+CHMMMSEQ Index,China Metal Smelting Equipment Output - Monthly,China,Demand,Machinery,Units
+CHMMINDU Index,China Industrial Robots Output - Monthly,China,Demand,Machinery,Units
+CHMMELEV Index,China Elevators Output - Monthly,China,Demand,Machinery,Units
+CHMMBLTT Index,China Bullet Trains Output - Monthly,China,Demand,Machinery,Units
+CHXNSTSH Index,China Civil Steel Ships Output - Monthly,China,Demand,Machinery,Units
+CHMMEXCA Index,China Excavators Output - Monthly,China,Demand,Civil and building construction,Units
+CNVSTHPE Index,China Heavy Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSTHPH Index,China Heavy Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSTMPE Index,China Medium Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSTMPH Index,China Medium Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSTLPE Index,China Light Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSTLPH Index,China Light Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSTIPE Index,China Mini Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSTIPH Index,China Mini Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSRDPE Index,China Semi-Tractor Sales - Pure Electric,China,Demand,Transport,Units
+CNVSRDPH Index,China Semi-Tractor Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSPETH Index,China Incomplete Heavy Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSPHTH Index,China Incomplete Heavy Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSPETM Index,China Incomplete Medium Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSPHTM Index,China Incomplete Medium Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSPETL Index,China Incomplete Light Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSPHTL Index,China Incomplete Light Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSPETI Index,China Incomplete Mini Duty Truck Sales - Pure Electric,China,Demand,Transport,Units
+CNVSPHTI Index,China Incomplete Mini Duty Truck Sales - Plug-in-hybrid,China,Demand,Transport,Units
+CNVSTHT Index,China Heavy-Duty Truck Sales - Total,China,Demand,Transport,Units
+CNVPBHD Index,China Heavy-Duty Truck Sales - Diesel,China,Demand,Transport,Units
+CNVPBHG Index,China Heavy-Duty Truck Sales - Gasoline,China,Demand,Transport,Units
+AUTMEUVS Index,Bloomberg Europe Auto Sales,Ex-China,Demand,Auto,Units
+AUTMNAVS Index,Bloomberg North America Auto Sales,Ex-China,Demand,Auto,Units
+USASLGHN Index,USA Light vehicle sales,Ex-China,Demand,Auto,Units
+MXVHTOTL Index,Mexico auto sales,Ex-China,Demand,Auto,Units
+CAUTSALE Index,Canada auto sales,Ex-China,Demand,Auto,Units
+AUTMLAVS Index,Bloomberg Latin America Auto Sales,Ex-China,Demand,Auto,Units
+BZVLTOTL Index,Brazil Auto Sales,Ex-China,Demand,Auto,Units
+AUTMMEVS Index,Bloomerg Africa and Middle East Auto Sales,Ex-China,Demand,Auto,Units
+NAAMCARS Index,South Africa sales,Ex-China,Demand,Auto,Units
+KNNVREG Index,Kenya sales,Ex-China,Demand,Auto,Units
+AUTMASBS Index,Bloomberg Asia Auto Sales,Ex-China,Demand,Auto,Units
+JNVTTOTL Index,Japan Auto Sales,Ex-China,Demand,Auto,Units
+AUTMKRVS Index,S. Korea Auto Sales,Ex-China,Demand,Auto,Units
+SINVHR Index,Singapore auto sales,Ex-China,Demand,Auto,Units
+TWVSDOM Index,Taiwan auto sales,Ex-China,Demand,Auto,Units
+IDVHCLOC Index,Indonesia auto sales,Ex-China,Demand,Auto,Units
+FADAINPV Index,India auto sales,Ex-China,Demand,Auto,Units
+THVHSCAR Index,Thailand auto sales,Ex-China,Demand,Auto,Units
+PAVSCAR Index,Pakistan auto sales,Ex-China,Demand,Auto,Units
+ASEAPHLS Index,Philippines auto sales,Ex-China,Demand,Auto,Units
+MAVSTTL Index,Malaysia auto sales,Ex-China,Demand,Auto,Units
+VECSTOTL Index,Vietnam auto sales,Ex-China,Demand,Auto,Units
+CSBW27 Index,Europe construction,Ex-China,Demand,Construction,Units
+CSBW27YY Index,Europe construction y/y,Ex-China,Demand,Construction,Units
+CNCS27 Index,Europe engineering,Ex-China,Demand,Construction,Units
+CNCW27YY Index,Europe engineering y/y,Ex-China,Demand,Construction,Units
+CNSTNROY Index,US Non Residential,Ex-China,Demand,Construction,Units
+CNNSRESI Index,Residential spending,Ex-China,Demand,Construction,Units
+CNSTTOTA Index,Total US spending,Ex-China,Demand,Construction,Units
+CNSTTYOY Index,Total US spending y/y,Ex-China,Demand,Construction,Units
+JNIACONS Index,Japn -top 50 contractors,Ex-China,Demand,Construction,Units
+NHCHSYOY Index,US Housing starts (y/y %),Ex-China,Demand,Construction,Units
+PHUC1UT Index,US private housing completions,Ex-China,Demand,Construction,Units
+NHSLYOY Index,US family home sales,Ex-China,Demand,Construction,Units
+MVCIBUIL Index,Mexico construction building volume,Ex-China,Demand,Construction,Units
+CAHSTOTL Index,Canada housing starts,Ex-China,Demand,Construction,Units
+SACSCSTO Index,South Africa Housing Completions,Ex-China,Demand,Construction,Units
+INFRCEM Index,India cement index,Ex-China,Demand,Construction,Units
+BZDECEMY Index,Brazil cement index,Ex-China,Demand,Construction,Units
+CEMORUAC Index,Russia cement index,Ex-China,Demand,Construction,Units
+IDCETOTL Index,Indonesia cement consumtpion,Ex-China,Demand,Construction,Units
+E4275DE Index,Germany,Ex-China,Demand,Consumer Goods,Units
+E4275FR Index,France,Ex-China,Demand,Consumer Goods,Units
+E4275ES Index,Spain,Ex-China,Demand,Consumer Goods,Units
+E4275IT Index,Italy,Ex-China,Demand,Consumer Goods,Units
+ICGDAPPL Index,USA,Ex-China,Demand,Consumer Goods,Units
+CAGMUMAJ Index,Canada,Ex-China,Demand,Consumer Goods,Units
+JNP1REFM Index,Japan Fridges & appliances,Ex-China,Demand,Consumer Goods,Units
+JNP1HOMA Index,Japan Housekeeping,Ex-China,Demand,Consumer Goods,Units
+JNP1AIRC Index,Japan Aircon,Ex-China,Demand,Consumer Goods,Units
+KOEIHOME Index,South Kororea home appliances exports,Ex-China,Demand,Consumer Goods,Units
+SKHSTOT Index,South Korea housing sales,Ex-China,Demand,Consumer Goods,Units
+KOOSELY Index,South Korea online home appliances ,Ex-China,Demand,Consumer Goods,Units
+KODSONLI Index,South Korea Total online sales,Ex-China,Demand,Consumer Goods,Units
+IDIZDCG Index,Indonesia Durable goods imports,Ex-China,Demand,Consumer Goods,Units
+THRSDGSP Index ,Thailand,Ex-China,Demand,Consumer Goods,Units
+MASMDMAP Index ,Malaysia,Ex-China,Demand,Consumer Goods,Units
+INPICNDY Index,India - Consumer Goods,Ex-China,Demand,Consumer Goods,Units
+TUIOIDG Index,Turkey,Ex-China,Demand,Consumer Goods,Units
+BZDEHOUY Index,Brazil,Ex-China,Demand,Consumer Goods,Units
+SAMGHAY Index,South Africa,Ex-China,Demand,Consumer Goods,Units
+IGMDIMAC Index,US IP Manufacturing Durables,Ex-China,Demand,Machinery,Units
+MXIPMACH Index,Canada IP Manufacturing Durables,Ex-China,Demand,Machinery,Units
+CAGMUMAC Index,Mexico IP machinery and equipment,Ex-China,Demand,Machinery,Units
+E6028EUY Index,Eurozone machinery /y,Ex-China,Demand,Machinery,Units
+INPICPTY Index,India - Machinery,Ex-China,Demand,Machinery,Units
+THMP28 Index,Thailand,Ex-China,Demand,Machinery,Units
+VOPIELEC Index,Phillipinnes,Ex-China,Demand,Machinery,Units
+JAPPCAP2 Index,Japan,Ex-China,Demand,Machinery,Units
+TWIPMACY Index,Taiwan,Ex-China,Demand,Machinery,Units
+KOIPMXP Index,S. Korea,Ex-China,Demand,Machinery,Units
+BZIXMACS Index,Brazil machinery and equipment output,Ex-China,Demand,Machinery,Units
+BZDEMACY Index,Brazil general purpose machinery and equipment output,Ex-China,Demand,Machinery,Units
+BZDESPPY Index,Brazil special purpose machinery,Ex-China,Demand,Machinery,Units
+BZIXMACH Index,Brazil IP machinery and equipment,Ex-China,Demand,Machinery,Units
+BZDEMINI Index,Brazil machinery for mining/quarry/construction,Ex-China,Demand,Machinery,Units
+SAMGGPMY Index,South Africa General purpose machinery y/y,Ex-China,Demand,Machinery,Units
+SAMGEMY Index,South Africa Electrical y/y,Ex-China,Demand,Machinery,Units
+SAMGSPMY Index,South Africa Special purpose Machinery,Ex-China,Demand,Machinery,Units
+TUIOWME Index,Turkey,Ex-China,Demand,Machinery,Units
+SFCDTOTL Index,Shanghai Futures Exchange Weekly Copper Deliverable Stocks,China,Copper,Stocks,metric tonne
+LMCADS15 Comdty,LME COPPER    15MO ($),Global,Copper,Price,USD/MT
+LMCADS27 Comdty,LME COPPER    27MO ($),Global,Copper,Price,USD/MT
+LMCADS63 Comdty,LME COPPER    63MO ($),Global,Copper,Price,USD/MT
+LMCAD123 Comdty,LME COPPER    123MO ($),Global,Copper,Price,USD/MT
+CU3 COMB Comdty,SHFE Copper,Global,Copper,Price,CNY/MT
+CECN00CU SMMC Index,"CIF, Phisical Premium",Global,Copper,Price,USD/MT
+USDCNY REGN Curncy,USD/CNY,Global,Copper,Price,USD
+CWTUSPOT Index,Copper Scrap Prices (#1 Wire & Tubing Scrap),Global,Copper,Price,USD/MT
+LECA Index,LME Copper On Warrants,Global,Copper,Stocks,metric tonne
+LFCA Index,LME Copper Cancelled Warrants,Global,Copper,Stocks,metric tonne
+LP4 Comdty,LME Copper 4M,Global,Copper,Price Curve,USD/MT
+LP5 Comdty,LME Copper 5M,Global,Copper,Price Curve,USD/MT
+LP7 Comdty,LME Copper 7M,Global,Copper,Price Curve,USD/MT
+LP8 Comdty,LME Copper 8M,Global,Copper,Price Curve,USD/MT
+LP10 Comdty,LME Copper 10M,Global,Copper,Price Curve,USD/MT
+LP11 Comdty,LME Copper 11M,Global,Copper,Price Curve,USD/MT
+LP13 Comdty,LME Copper 13M,Global,Copper,Price Curve,USD/MT
+LP14 Comdty,LME Copper 14M,Global,Copper,Price Curve,USD/MT
+LP16 Comdty,LME Copper 16M,Global,Copper,Price Curve,USD/MT
+LP17 Comdty,LME Copper 17M,Global,Copper,Price Curve,USD/MT
+LP19 Comdty,LME Copper 19M,Global,Copper,Price Curve,USD/MT
+LP20 Comdty,LME Copper 20M,Global,Copper,Price Curve,USD/MT
+LP21 Comdty,LME Copper 21M,Global,Copper,Price Curve,USD/MT
+LP22 Comdty,LME Copper 22M,Global,Copper,Price Curve,USD/MT
+LP23 Comdty,LME Copper 23M,Global,Copper,Price Curve,USD/MT
+LL24 Comdty,LME Lead 24M,Global,Lead,Price Curve,USD/MT
+LA4 Comdty,LME Aluminium 4M,Global,Aluminium,Price Curve,USD/MT
+LA5 Comdty,LME Aluminium 5M,Global,Aluminium,Price Curve,USD/MT
+LA7 Comdty,LME Aluminium 7M,Global,Aluminium,Price Curve,USD/MT
+LA8 Comdty,LME Aluminium 8M,Global,Aluminium,Price Curve,USD/MT
+LA10 Comdty,LME Aluminium 10M,Global,Aluminium,Price Curve,USD/MT
+LA11 Comdty,LME Aluminium 11M,Global,Aluminium,Price Curve,USD/MT
+LA13 Comdty,LME Aluminium 13M,Global,Aluminium,Price Curve,USD/MT
+LA14 Comdty,LME Aluminium 14M,Global,Aluminium,Price Curve,USD/MT
+LA16 Comdty,LME Aluminium 16M,Global,Aluminium,Price Curve,USD/MT
+LA17 Comdty,LME Aluminium 17M,Global,Aluminium,Price Curve,USD/MT
+LA19 Comdty,LME Aluminium 19M,Global,Aluminium,Price Curve,USD/MT
+LA20 Comdty,LME Aluminium 20M,Global,Aluminium,Price Curve,USD/MT
+LA21 Comdty,LME Aluminium 21M,Global,Aluminium,Price Curve,USD/MT
+LA22 Comdty,LME Aluminium 22M,Global,Aluminium,Price Curve,USD/MT
+LA23 Comdty,LME Aluminium 23M,Global,Aluminium,Price Curve,USD/MT
+LP24 Comdty,LME Copper 24M,Global,Copper,Price Curve,USD/MT
+AA1 Comdty,SHFE Aluminium,China,Aluminium ,Price,CNY/MT
+AACNPH01 Index,China Alumina EXW Price Daily,Global,Aluminium ,Price,CNY/metric tonne
+AACNST01 Index,China Alumina Port Inventory Weekly,China,Alumina,Stocks,"10000 metric tonnes"
+FPIPYOY Index,France Industrial Production YoY%,France,Demand,Industrial Production,%
+KOIPIY Index,Korea Industrial Production YoY%,Korea,Demand,Industrial Production,%
+AICNRN13 Index,China Aluminum Profile Large Producers Operating Rates Monthly,China,Aluminium,Utilization Rates,%
+AICNRN19 Index,China Aluminum Construction Aluminum Extruders Operating Rates Monthly,China,Aluminium,Utilization Rates,%
+AICNST09 Index,China Aluminum Inventories Total Weekly,Global,Aluminium,Stocks,"10000 metric tonnes"
+ANO1 Comdty,Alumina Price,Global,Aluminium ,Price,CNY/MT
+BXCIIQGN Index,China Customs Bauxite Import Quantity/Guinea,China,Bauxite,Trade,metric tonne
+BXCIIQTL Index,China Customs Bauxite Total Import Quantity,China,Bauxite,Trade,metric tonne
+BXCNSS04 Index,China Imported Bauxite Port Shipments from Guinea Weekly,China,Bauxite,Trade,"10000 metric tonnes"
+BXCNST01 Index,China Imported Bauxite Port Inventory Weekly,China,Bauxite,Stocks,"10000 metric tonnes"
+CALEEQTL Index,China Customs Unwrought Aluminum & Alloys Total Exports Quantity,China,Aluminium,Trade,USD/metric tonne
+CALIIQTL Index,China Customs Unwrought Aluminum & Alloys Total Import Quantity,China,Aluminium,Trade,metric tonne
+CAWIIQTL Index,China Customs Aluminum Waste & Scrap Total Imports Quantity,China,Aluminium,Trade,USD/metric tonne
+CCUEEQTL Index,China Customs Total Copper Ores Export Quantity,China,Copper,Trade,USD/metric tonne
+CCWEEQTL Index,China Customs Copper Waste Total Exports Quantity,China,Copper,Trade,USD/metric tonne
+CCZIIQTL Index,China Customs Unwrought Zinc & Alloys Total Imports Quantity,China,Zinc,Trade,metric tonne
+CECN00CU Index,China Copper Cathode 99.95% Premium/Discount,China,Copper,Premium,CNY/metric tonne
+CHHEAVG Index,China 70 Cities Newly Built Commercial Residential Buildings Prices YoY Average,China,Demand,Civil and building construction,%
+CHMMAIRR Index,China Industrial Output (Cumulative) - Air Conditioner,China,Demand,Air conditioning and refrigeration,Thousand
+CHMMPAUC Index,China Industrial Output (Cumulative) - Primary Aluminum,China,Aluminium,Production,Thousand Tonnes
+CHMMPAUM Index,China Industrial Output - Primary Aluminum,China,Aluminium,Production,Thousand Tonnes
+CHMMRCOC Index,China Industrial Output (Cumulative) - Refined Copper,China,Copper,Refined Production,Thousand Tonnes
+CHMMRCOP Index,China Industrial Output - Refined Copper,China,Copper,Refined Production,Thousand Tonnes
+CHMMREFC Index,China Industrial Output (Cumulative) - Household Refrigerator,China,Demand,Air conditioning and refrigeration,Million
+CHRECOMP Index,China Property - Floor Space of Buildings Completed,China,Demand,Civil and building construction,Million sq.m
+CHRECORY Index,China Property - Floor Space of Completed Residential Buildings YoY,China,Demand,Civil and building construction,%
+CHRENWRY Index,China Property - Floor Space of Houses Newly Started Residential Bldgs Cum YoY,China,Demand,Civil and building construction,%
+CHRESPRY Index,China Property - Floor Space under Construction Residential Buildings YoY,China,Demand,Civil and building construction,%
+CHXCFREE Index,China Industrial Output (Cumulative) - Freezers,China,Demand,Air conditioning and refrigeration,Thousand
+SFZDTOTL Index,Shanghai Futures Exchange Zinc On Warrant Stocks Daily Total,China,Zinc,Stocks,metric tonne
+CHXCMCMC Index,China Industrial Output - Cumulative - Metal-Cutting Machine,China,Demand,Machinery,Thousand
+CMINCOPR Index,Chile Mineral Copper Export Data,Chile,Copper,Trade,Million USD
+CNEVALUM Index,China Export Commodity Unwrought Aluminum & Aluminum Products,China,Aluminium,Trade,Thousand Tonnes
+CNEVAUMA Index,China Export Commodity Volume - Alumina,China,Aluminium,Trade,Thousand Tonnes
+CNFA3INY Index,China Fixed Assets Investment (Cumu) YoY- Infrastructure (excluding electricity),China,Demand,Civil and building construction,%
+CNFACTY Index,China Fixed Assets Investment Construction Cumulative YoY,China,Demand,Civil and building construction,%
+CNFAELEY Index,China Fixed Assets Investment (Cumu) YoY - Electric Equipment and Machinery,China,Demand,Power,%
+CNFAESTY Index,China Fixed Assets Investment Real Estate Cumulative YoY,China,Demand,Civil and building construction,%
+CNFAMFY Index,China Fixed Assets Investments Manufacturing Cumulative YoY,China,Demand,Industrial,%
+CNFARTY Index,China FAI Railway Transportation Cumulative YoY,China,Demand,Civil and building construction,%
+CNFAYOY Index,China Fixed Assets Investment (Excluding Rural Households) Cumulative YoY,China,Demand,Civil and building construction,%
+CNIVALUM Index,China Import Commodity Volume Unwrought Aluminum & Aluminum Products,China,Aluminium,Trade,Thousand Tonnes
+CNLETOTL Index,China Laterite Ore Inventory Total,China,Laterite,Stocks,"10000 metric tonnes"
+CNOIIQTL Index,China Customs Nickel Ore Total Import Quantity,China,Nickel,Trade,metric tonne
+CNVPBDEL Index,China Domestically Made Pure Electric Basic Passenger Car Production,China,Demand,Transport,Units
+CNVPCDEL Index,China Domestically Made Pure Electric Passenger Car Crossover Production,China,Demand,Transport,Units
+CNVPCMV Index,China Automobile Production Commercial Car,China,Demand,Transport,Units
+CNVPMDEL Index,China Domestically Made Pure Electric Passenger Car MPV Production,China,Demand,Transport,Units
+CNVPPSGR Index,China Automobile Production Passenger Car,China,Demand,Transport,Units
+CNVPSDEL Index,China Domestically Made Pure Electric  SUV Production,China,Demand,Transport,Units
+CNVPTHT Index,China Heavy-Duty Truck Production by Fuel Type - Total,China,Demand,Transport,Units
+CNVPTTL Index,China Automobile Production Model Type Total,China,Demand,Transport,Units
+CNVSCEPT Index,China Commercial NEV Production Volume - Electric,China,Demand,Transport,Units
+CNVSCFPT Index,China Commercial NEV Production Volume - Fuel Cell,China,Demand,Transport,Units
+CNVSCHPT Index,China Commercial NEV Production Volume - Plug-in Hybrid,China,Demand,Transport,Units
+CNVSCMV Index,China Automobile Sales Commercial Car,China,Demand,Transport,Units
+CNVSELPT Index,China Passenger NEV Production Volume - Electric,China,Demand,Transport,Units
+CNVSFCPT Index,China Passenger NEV Production Volume - Fuel Cell,China,Demand,Transport,Units
+CNVSHYPT Index,China Passenger NEV Production Volume - Plug-in Hybrid,China,Demand,Transport,Units
+CNVSNPTL Index,China Passenger NEV Production Volume Total,China,Demand,Transport,Units
+CNVSPSGR Index,China Automobile Sales Passenger Car,China,Demand,Transport,Units
+CPMINDX Index,China Manufacturing PMI SA,China,Demand,Manufacturing PMI,Units
+CPWIIVTL Index,China Customs Copper Waste & Scrap Total Imports Value,China,Copper,Trade,Units
+CRZNIQTL Index,China Customs Refined Zinc Total Import Quantity,China,Zinc,Trade,metric tonne
+CSTNSPCM Index,China Construction - Floor Space of Buildings Completed YTD,China,Demand,Civil and building construction,Thoursand SQ.M
+CUCEEQTL Index,China Customs Refined Copper & Cooper Alloys Total Exports Quantity,China,Copper,Trade,metric tonne
+CUCIIQTL Index,China Customs Refined Copper & Alloys Total Imports Quantity,China,Copper,Trade,metric tonne
+CZINCEME Index,China Industrial Output YoY - Cement,China,Demand,Industrial,%
+CZOIIQTL Index,China Customs Zinc Ore Total Import Quantity,China,Zinc,Trade,metric tonne
+F5CNNP15 SMMC Index,China Nickel Pig Iron 8-12%,China,Nickel,Spot Treatment Charges,CNY/metric tonne unit (10kg)
+LMCAY03 Comdty,LME COPPER SPOT 3MO SPRD,Global,Copper,Price,USD/MT
+LMNIDY Comdty,LME NICKEL   SPOT ($),Global,Nickel,Price,USD/MT
+LSCA Index,LME Copper Inventories (mt),Global,Copper,Stocks,metric tonne
+LSZS Index,LME ZINC TOTAL,Global,Zinc,Stocks,metric tons
+N2CNST08 SMMC Index,China Nickel Ore Inventories at Seven Ports Weekly,China,Nickel,Stocks,"10,000 Wet Metric Tonnes"
+NAPMPMI Index,ISM Manufacturing PMI SA,US,Demand,Manufacturing PMI,Units
+NICIIQTL Index,China Ferronickel Total Imports Quantity Monthly,China,Nickel,Trade,metric tonne
+NICNST02 SMMC Index,China Refined Nickel Inventories Shanghai Bonded Zone Monthly,China,Nickel,Stocks,metric tonne
+NIKLIDRP Index,Indonesia Nickel Refined Production,China,Nickel,Refined Production,metric tonne
+NIKLMPID Index,Indonesia Nickel Mine Production,China,Nickel,Mine Production,metric tonne
+NLSCA CATS%AMER Index,LME CLS Copper,Global,Copper,Stocks,metric tons
+NLSNI Index,LME CLS Nickel,Global,Nickel,Stocks,metric tons
+RALCEQTL Index,China Customs Refined Aluminum Total Export Quantity,China,Aluminium,Trade,metric tonne
+RALCIQTL Index,China Customs Refined Aluminum Total Import Quantity,China,Aluminium,Trade,metric tonne
+RNICEQTL Index,China Customs Refined Nickel Total Export Quantity,China,Nickel,Trade,metric tonne
+RNICIQTL Index,China Customs Refined Nickel Total Import Quantity,China,Nickel,Trade,metric tonne
+SFADTOTL Index,Shanghai Futures Exchange Weekly Aluminum Deliverable Stocks,China,Aluminium,Stocks,metric tonne
+SFNDTOTL Index,Shanghai Futures Exchange Nickel On Warrant Stocks Daily Total,China,Nickel,Stocks,metric tonne
+Z1CNHCOF AMTL Index,China Zinc Concentrate Treatment Charge 50% CIF,China,Zinc,Spot Treatment Charges,USD/metric tonne
+Z1CNST01 SMMC Index,China Zinc Concentrate Inventory at Lianyungang Port Weekly,China,Zinc,Stocks,"10000 metric tonnes"
+ZNA1 Comdty,SHFE Zinc,China,Zinc,Price,CNY/MT
+ZNCNMQKY Index,China Zinc Premium Bill of Lading Shanghai CIF,China,Zinc,Premium,USD/metric tonne
+ZNCNNFIM SMET Index,China Imported Zinc Ingot Premium in Shanghai,China,Zinc,Premium,CNY/metric tonne
+CPMINORD Index,China New Orders PMI,China,Demand,Manufacturing PMI,Units
+CPMINEXO Index,China New Exports Orders PMI,China,Demand,Manufacturing PMI,Units
+CPMINDOD Index,China Backlog Of Orders PMI,China,Demand,Manufacturing PMI,Units
+CPMIIRAM Index,China Inventories of Raw Materials PMI,China,Demand,Manufacturing PMI,Units
+CPMIIFGS Index,China Stocks of Finished Goods PMI,China,Demand,Manufacturing PMI,Units
+CPMIPROD Index,China Output PMI,China,Demand,Manufacturing PMI,Units
+CPMIPRXP Index,China Input Prices PMI,China,Demand,Manufacturing PMI,Units
+MPMIINMA Index,India PMI,India,Demand,Manufacturing PMI,Units
+MPMIJPMA Index,Japan PMI,Japan,Demand,Manufacturing PMI,Units
+AA3 Comdty,SHFE Aluminium 3M,China,Aluminium ,Price,CNY/MT
+MPMIEZMA Index,Eurozone PMI,Eurozone,Demand,Manufacturing PMI,Units
+MPMIDEMA Index,Germany PMI,Germany,Demand,Manufacturing PMI,Units
+MPMIFRMA Index,France PMI,France,Demand,Manufacturing PMI,Units
+SZPUI Index,Sweden PMI,Sweden,Demand,Manufacturing PMI,Units
+MPMIKRMA Index,Korea PMI,Korea,Demand,Manufacturing PMI,Units
+LX4 Comdty,LME Zinc 4M,Global,Zinc,Price Curve,USD/MT
+LX5 Comdty,LME Zinc 5M,Global,Zinc,Price Curve,USD/MT
+LX7 Comdty,LME Zinc 7M,Global,Zinc,Price Curve,USD/MT
+LX8 Comdty,LME Zinc 8M,Global,Zinc,Price Curve,USD/MT
+LX10 Comdty,LME Zinc 10M,Global,Zinc,Price Curve,USD/MT
+LX11 Comdty,LME Zinc 11M,Global,Zinc,Price Curve,USD/MT
+LX13 Comdty,LME Zinc 13M,Global,Zinc,Price Curve,USD/MT
+LX14 Comdty,LME Zinc 14M,Global,Zinc,Price Curve,USD/MT
+LX16 Comdty,LME Zinc 16M,Global,Zinc,Price Curve,USD/MT
+LX17 Comdty,LME Zinc 17M,Global,Zinc,Price Curve,USD/MT
+LX19 Comdty,LME Zinc 19M,Global,Zinc,Price Curve,USD/MT
+LX20 Comdty,LME Zinc 20M,Global,Zinc,Price Curve,USD/MT
+LX21 Comdty,LME Zinc 21M,Global,Zinc,Price Curve,USD/MT
+LX22 Comdty,LME Zinc 22M,Global,Zinc,Price Curve,USD/MT
+LX23 Comdty,LME Zinc 23M,Global,Zinc,Price Curve,USD/MT
+SFDLTOTL Index,Shanghai Futures Exchange Lead On Warrant Stocks Daily Total,China,Lead,Stocks,metric tonne
+LN4 Comdty,LME Nickel 4M,Global,Nickel,Price Curve,USD/MT
+LN5 Comdty,LME Nickel 5M,Global,Nickel,Price Curve,USD/MT
+LN7 Comdty,LME Nickel 7M,Global,Nickel,Price Curve,USD/MT
+LN8 Comdty,LME Nickel 8M,Global,Nickel,Price Curve,USD/MT
+LN10 Comdty,LME Nickel 10M,Global,Nickel,Price Curve,USD/MT
+LN11 Comdty,LME Nickel 11M,Global,Nickel,Price Curve,USD/MT
+LN13 Comdty,LME Nickel 13M,Global,Nickel,Price Curve,USD/MT
+LN14 Comdty,LME Nickel 14M,Global,Nickel,Price Curve,USD/MT
+LN16 Comdty,LME Nickel 16M,Global,Nickel,Price Curve,USD/MT
+LN17 Comdty,LME Nickel 17M,Global,Nickel,Price Curve,USD/MT
+LN19 Comdty,LME Nickel 19M,Global,Nickel,Price Curve,USD/MT
+LN20 Comdty,LME Nickel 20M,Global,Nickel,Price Curve,USD/MT
+LN21 Comdty,LME Nickel 21M,Global,Nickel,Price Curve,USD/MT
+LN22 Comdty,LME Nickel 22M,Global,Nickel,Price Curve,USD/MT
+LN23 Comdty,LME Nickel 23M,Global,Nickel,Price Curve,USD/MT
+STIDTOTL Index,Shanghai Futures Exchange Tin On Warrant Stocks Daily Total,China,Tin,Stocks,metric tonne
+LL4 Comdty,LME Lead 4M,Global,Lead,Price Curve,USD/MT
+LL5 Comdty,LME Lead 5M,Global,Lead,Price Curve,USD/MT
+LL7 Comdty,LME Lead 7M,Global,Lead,Price Curve,USD/MT
+LL8 Comdty,LME Lead 8M,Global,Lead,Price Curve,USD/MT
+LL10 Comdty,LME Lead 10M,Global,Lead,Price Curve,USD/MT
+LL11 Comdty,LME Lead 11M,Global,Lead,Price Curve,USD/MT
+LL13 Comdty,LME Lead 13M,Global,Lead,Price Curve,USD/MT
+LL14 Comdty,LME Lead 14M,Global,Lead,Price Curve,USD/MT
+LL16 Comdty,LME Lead 16M,Global,Lead,Price Curve,USD/MT
+LL17 Comdty,LME Lead 17M,Global,Lead,Price Curve,USD/MT
+LL19 Comdty,LME Lead 19M,Global,Lead,Price Curve,USD/MT
+LL20 Comdty,LME Lead 20M,Global,Lead,Price Curve,USD/MT
+LL21 Comdty,LME Lead 21M,Global,Lead,Price Curve,USD/MT
+LL22 Comdty,LME Lead 22M,Global,Lead,Price Curve,USD/MT
+LL23 Comdty,LME Lead 23M,Global,Lead,Price Curve,USD/MT
+EX61SPOT SCMO Index,North America 6061 Extrusions Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+LP1 Comdty,LME Copper 1M,Global,Copper,Price Curve,USD/MT
+LP2 Comdty,LME Copper 2M,Global,Copper,Price Curve,USD/MT
+LP3 Comdty,LME Copper 3M,Global,Copper,Price Curve,USD/MT
+LP6 Comdty,LME Copper 6M,Global,Copper,Price Curve,USD/MT
+LP9 Comdty,LME Copper 9M,Global,Copper,Price Curve,USD/MT
+LP12 Comdty,LME Copper 12M,Global,Copper,Price Curve,USD/MT
+LP15 Comdty,LME Copper 15M,Global,Copper,Price Curve,USD/MT
+LP18 Comdty,LME Copper 18M,Global,Copper,Price Curve,USD/MT
+LA24 Comdty,LME Aluminium 24M,Global,Aluminium,Price Curve,USD/MT
+LA1 Comdty,LME Aluminium 1M,Global,Aluminium,Price Curve,USD/MT
+LA2 Comdty,LME Aluminium 2M,Global,Aluminium,Price Curve,USD/MT
+LA3 Comdty,LME Aluminium 3M,Global,Aluminium,Price Curve,USD/MT
+LA6 Comdty,LME Aluminium 6M,Global,Aluminium,Price Curve,USD/MT
+LA9 Comdty,LME Aluminium 9M,Global,Aluminium,Price Curve,USD/MT
+LA12 Comdty,LME Aluminium 12M,Global,Aluminium,Price Curve,USD/MT
+LA15 Comdty,LME Aluminium 15M,Global,Aluminium,Price Curve,USD/MT
+LA18 Comdty,LME Aluminium 18M,Global,Aluminium,Price Curve,USD/MT
+LX24 Comdty,LME Zinc 24M,Global,Zinc,Price Curve,USD/MT
+LX1 Comdty,LME Zinc 1M,Global,Zinc,Price Curve,USD/MT
+LX2 Comdty,LME Zinc 2M,Global,Zinc,Price Curve,USD/MT
+LX3 Comdty,LME Zinc 3M,Global,Zinc,Price Curve,USD/MT
+LX6 Comdty,LME Zinc 6M,Global,Zinc,Price Curve,USD/MT
+LX9 Comdty,LME Zinc 9M,Global,Zinc,Price Curve,USD/MT
+LX12 Comdty,LME Zinc 12M,Global,Zinc,Price Curve,USD/MT
+LX15 Comdty,LME Zinc 15M,Global,Zinc,Price Curve,USD/MT
+LX18 Comdty,LME Zinc 18M,Global,Zinc,Price Curve,USD/MT
+LN24 Comdty,LME Nickel 24M,Global,Nickel,Price Curve,USD/MT
+LN1 Comdty,LME Nickel 1M,Global,Nickel,Price Curve,USD/MT
+LN2 Comdty,LME Nickel 2M,Global,Nickel,Price Curve,USD/MT
+LN3 Comdty,LME Nickel 3M,Global,Nickel,Price Curve,USD/MT
+LN6 Comdty,LME Nickel 6M,Global,Nickel,Price Curve,USD/MT
+LN9 Comdty,LME Nickel 9M,Global,Nickel,Price Curve,USD/MT
+LN12 Comdty,LME Nickel 12M,Global,Nickel,Price Curve,USD/MT
+LN15 Comdty,LME Nickel 15M,Global,Nickel,Price Curve,USD/MT
+LN18 Comdty,LME Nickel 18M,Global,Nickel,Price Curve,USD/MT
+EX6FSPOT Index,North America 6063 Extrusions per Fe Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+LL1 Comdty,LME Lead 1M,Global,Lead,Price Curve,USD/MT
+LL2 Comdty,LME Lead 2M,Global,Lead,Price Curve,USD/MT
+LL3 Comdty,LME Lead 3M,Global,Lead,Price Curve,USD/MT
+LL6 Comdty,LME Lead 6M,Global,Lead,Price Curve,USD/MT
+LL9 Comdty,LME Lead 9M,Global,Lead,Price Curve,USD/MT
+LL12 Comdty,LME Lead 12M,Global,Lead,Price Curve,USD/MT
+LL15 Comdty,LME Lead 15M,Global,Lead,Price Curve,USD/MT
+LL18 Comdty,LME Lead 18M,Global,Lead,Price Curve,USD/MT
+S505SPOT SCMO Index,North America 5052 Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+OLDCSPOT SCMO Index,North America Old Cast Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+UBCASPOT SCMO Index,North America UBC Used Beverage Cans Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+ZORBSPOT SCMO Index,North America Zorba 90% NF Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+AMUSDEL HARA Index,US Midwest Aluminum Ingot Premium (Consumer - Supplier) Delivered,US,Aluminium,Premium,USD/pound
+AMEUDDU HARA Index,European Rotterdam Aluminum Ingot Premium Duty Unpaid in Warehouse,Europe,Aluminium,Premium,USD/metric tonne
+AMEUDDP HARA Index,European Rotterdam Aluminum Ingot Premium Duty Paid in Warehouse,Europe,Aluminium,Premium,USD/metric tonne
+EXT6SPOT SCMO Index,North America 6063 Extrusions Aluminum Scrap Spot,North America,Aluminium,Price,USD/pound
+NLEPB Index,LME Lead On Warrant Stocks Daily,Global,Lead,Stocks,metric tonne
+NLFPB Index,LME Lead Cancelled On Warrant Stocks Daily,Global,Lead,Stocks,metric tonne
+T1CNIM Index,China tin ore imports,China,Tin,Trade,metric tonne
+T1CNIMMM Index,China tin ore imports from Myanmar,China,Tin,Trade,metric tonne
+IDTNVOTL Index,Indonesia tin exports,Indonesia,Tin,Trade,metric tonne
+MAEVTIN Index,Malaysia tin exports,Malaysia,Tin,Trade,metric tonne
+PEMTTIN Index,Peru tin production,Peru,Tin,Mine Production,metric tonne
+MATVITIN Index,Malaysia tin imports concentrate ($),Malaysia,Tin,Trade,MYR Million
+NLESN Index,LME Tin On Warrant Stocks,Global,Tin,Stocks,metric tonne
+NLFSN Index,LME Tin Cancelled On Warrant Stocks,Global,Tin,Stocks,metric tonne
+NLEAH Index,LME On Warrant Aluminium,Global,Aluminium,Stocks,metric tons
+NLFAH Index,LME Cancelled Warrant Aluminium,Global,Aluminium,Stocks,metric tons
+NLEZS Index,LME On Warrant Zinc,Global,Zinc,Stocks,metric tons
+NLFZS Index,LME Cancelled Warrant Zinc,Global,Zinc,Stocks,metric tons
+NLENI Index,LME On Warrant Nickel,Global,Nickel,Stocks,metric tons
+NLFNI Index,LME Cancelled Warrant Nickel,Global,Nickel,Stocks,metric tons
